@@ -1,6 +1,6 @@
 .data
 sal: .asciiz "Informe o Saldo Inicial: "
-menu: .asciiz "\n ------> MENU <------- \n1 -Mostrar o Saldo\n2 - Depósitar\n3 - Efetuar Saque \n0 - Sair\nOpção"
+menu: .asciiz "\n ------> MENU <------- \n1 -Mostrar o Saldo\n2 - Depositar\n3 - Efetuar Saque \n0 - Sair\nOpção"
 outsal: .asciiz "SALDO = "
 outdep: .asciiz "Seu NOVO SALDO após o Depósito é: "
 outdep2: .asciiz "Informe seu Depósito: "
