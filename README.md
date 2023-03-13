@@ -1,2 +1,2 @@
 # Sistema-Bancario-ASM
-Sistema de sáldo, depósito, saque, Criado na arquitetura MIPS.
+Sistema de saldo, depósito, saque, Criado na arquitetura MIPS.
